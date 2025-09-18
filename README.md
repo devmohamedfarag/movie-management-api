@@ -75,6 +75,9 @@ cd movie-api
 ```
 mvn spring-boot:run
 ```
+#### 8- Access the application:
+
+Open your browser and visit http://localhost:8080 to interact with the Employee CRUD application.
 
 ---
 
